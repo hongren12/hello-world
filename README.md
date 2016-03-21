@@ -1,2 +1,2 @@
 # hello-world
-my name is Wladimir. I am form Russia.
+my name is Wladimir. I am from Russia.
